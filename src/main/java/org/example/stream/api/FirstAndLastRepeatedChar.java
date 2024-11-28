@@ -20,7 +20,7 @@ public class FirstAndLastRepeatedChar {
         map.entrySet().stream().filter(s -> s.getValue() >1).map(s-> s.getKey()).findFirst()
         );
 
-        System.out.println("First Non Repeast character");
+        System.out.println("First Non Repeat character");
      Optional<Character> nonRepeatChar = map.entrySet().stream().filter(s -> s.getValue()==1).map(s -> s.getKey()).findFirst();
      if(nonRepeatChar.isPresent())
          System.out.println(nonRepeatChar);
