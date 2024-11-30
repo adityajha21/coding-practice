@@ -5,38 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/ConcurrentModificationException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/StaticMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/CalculateAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/GroupByLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/MergeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/SortString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/filterAndMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/AddStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicateFromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SquareOfSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/StartVsRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/CommonElementInArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/Sort0s1sArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/AddTwoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/DuplicateChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/ComparatorCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/FindCommonElementInList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FirstAndLastRepeatedChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FirstAndLastRepeatedChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseEachWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseEachWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/MergeList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +43,14 @@
     "Application.BuySellStock2.executor": "Run",
     "Application.CalculateAverage.executor": "Run",
     "Application.CommonElementInArrays.executor": "Run",
+    "Application.Comparator.executor": "Run",
+    "Application.ComparatorCompare.executor": "Run",
     "Application.ConcurrentModificationException.executor": "Run",
+    "Application.ConvertListToMap.executor": "Run",
     "Application.CountOccurance.executor": "Run",
     "Application.DuplicateChar.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
+    "Application.FindCommonElementInList.executor": "Run",
     "Application.FindPivotIndex.executor": "Run",
     "Application.FirstAndLastRepeatedChar.executor": "Run",
     "Application.FirstNonRepeating.executor": "Run",
@@ -126,13 +103,52 @@
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StartVsRun">
-    <configuration name="ConcurrentModificationException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.pratice.ConcurrentModificationException" />
+  <component name="RunManager" selected="Application.ComparatorCompare">
+    <configuration name="Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.Comparator" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.pratice.*" />
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComparatorCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.ComparatorCompare" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertListToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.ConvertListToMap" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindCommonElementInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.FindCommonElementInList" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,52 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StartVsRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multithreading.StartVsRun" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.pratice.Test" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="core.java.pratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="filterAndMapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.filterAndMapping" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartVsRun" />
+        <item itemvalue="Application.ComparatorCompare" />
+        <item itemvalue="Application.Comparator" />
+        <item itemvalue="Application.ConvertListToMap" />
+        <item itemvalue="Application.FindCommonElementInList" />
         <item itemvalue="Application.MergeList" />
-        <item itemvalue="Application.filterAndMapping" />
-        <item itemvalue="Application.ConcurrentModificationException" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -236,6 +213,7 @@
       <workItem from="1731640155118" duration="3260000" />
       <workItem from="1731742187280" duration="20819000" />
       <workItem from="1732516848784" duration="6316000" />
+      <workItem from="1732784752767" duration="7283000" />
     </task>
     <servers />
   </component>
