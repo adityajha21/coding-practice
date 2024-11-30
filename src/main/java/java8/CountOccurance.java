@@ -19,7 +19,12 @@ public class CountOccurance {
         int maxCount =0;
         int mostFrequentItem = 0;
         for (int i =0 ; i<arr.length; i++) {
-            hashMap.put(arr[i], hashMap.getOrDefault(arr[i],0 )+1);
+           // hashMap.put(arr[i], hashMap.getOrDefault(arr[i],0 )+1);// The value to return if the key is not present in the map
+       if(hashMap.containsKey(arr[i])) {
+           hashMap.put(arr[i] , hashMap.get(arr[i])+1);
+       } else {
+           hashMap.put(arr[i],1);
+       }
         }
         for(Map.Entry<Integer, Integer> entry : hashMap.entrySet()) {
             if(entry.getValue() > maxCount ) {

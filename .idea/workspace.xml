@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/ComparatorCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/FindCommonElementInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/MergeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/CalculateAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/CalculateAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,7 @@
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountOccurance.executor": "Run",
     "Application.DuplicateChar.executor": "Run",
+    "Application.EmployeeSorting.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
     "Application.FindCommonElementInList.executor": "Run",
     "Application.FindPivotIndex.executor": "Run",
@@ -103,9 +105,9 @@
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComparatorCompare">
-    <configuration name="Comparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Comparator" />
+  <component name="RunManager" selected="Application.EmployeeSorting">
+    <configuration name="CalculateAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.CalculateAverage" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertListToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.ConvertListToMap" />
+    <configuration name="CountOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.CountOccurance" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -143,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindCommonElementInList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.FindCommonElementInList" />
+    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.EmployeeSorting" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -156,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.MergeList" />
+    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.MaxMin" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -171,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeSorting" />
+        <item itemvalue="Application.MaxMin" />
+        <item itemvalue="Application.CountOccurance" />
+        <item itemvalue="Application.CalculateAverage" />
         <item itemvalue="Application.ComparatorCompare" />
-        <item itemvalue="Application.Comparator" />
-        <item itemvalue="Application.ConvertListToMap" />
-        <item itemvalue="Application.FindCommonElementInList" />
-        <item itemvalue="Application.MergeList" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +215,7 @@
       <workItem from="1731640155118" duration="3260000" />
       <workItem from="1731742187280" duration="20819000" />
       <workItem from="1732516848784" duration="6316000" />
-      <workItem from="1732784752767" duration="7283000" />
+      <workItem from="1732784752767" duration="17825000" />
     </task>
     <servers />
   </component>
