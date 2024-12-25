@@ -1,19 +1,12 @@
 package java8;
 
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class CountOccurance {
     public static void main(String[] args) {
 
         int[] arr = {3, 3, 1, 3, 2, 1};
-/*        String str = "aditya";
-        Map<Character,Long> mapResult = str.chars().mapToObj(s->(char)s)
-                .collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
-        System.out.println(mapResult);*/
 
         HashMap<Integer, Integer> hashMap = new HashMap<>();
         int maxCount =0;

@@ -7,9 +7,10 @@ import java.util.stream.Collectors;
 
 public class RemoveDuplicates {
     public static void main(String[] args) {
-        List<String> list = Arrays.asList("aditya","bittu","aditya");
+       // List<String> list = Arrays.asList("aditya","bittu","aditya");
+        List<Integer> list = Arrays.asList(2,3,4,4);
       //  HashSet<String> newList = (HashSet<String>) list.stream().collect(Collectors.toSet());
-        List<String> newList = list.stream().distinct().toList();
+        List<Integer> newList = list.stream().map(i -> i*i).distinct().toList();
         System.out.println(newList);
 
     }

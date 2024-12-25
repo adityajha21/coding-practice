@@ -5,7 +5,7 @@ package org.example.miscellenous;
 public class WriteTable {
     public static void main(String[] args) {
         int num = 4;
-        for(int i=num ; i<=num*10; i= i+4){
+        for(int i=num ; i<=num*10; i= i+num){
             System.out.println(i);
         }
     }

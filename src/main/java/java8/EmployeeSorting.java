@@ -9,6 +9,7 @@ import java.util.stream.Collectors;
 class Employee {
     private int id;
     private String name;
+    private Long salary;
 
     public Employee(int id, String name) {
         this.id = id;

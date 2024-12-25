@@ -14,6 +14,7 @@ public class RotateArray {
             //keep shifting each element of array till kth index
             for(int j=0; j<arr.length-1; j++) {
                 arr[j] = arr[j+1];
+                System.out.println(Arrays.toString(arr));
             }
             arr[arr.length-1] = firstElement;
         }
