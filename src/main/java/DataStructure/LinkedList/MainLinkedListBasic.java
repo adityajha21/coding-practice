@@ -17,6 +17,9 @@ public class MainLinkedListBasic {
         System.out.println("Last Node : " +deleteLastValue +" is deleted") ;
 
         linkedListBasic.display();
+        linkedListBasic.reverseLinkedList();
+        linkedListBasic.display();
+        linkedListBasic.search(1);
 
      /*   int index =  linkedListBasic.findIndex(15);
         System.out.println("Data 40 is present in " +index);*/

@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainLinkedListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/Linkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/AddLargeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sollid/principles/SingleResponsibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/DoublyLinkedListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainDoublyLinkedListBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/NonStaticVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/StaticVariableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/CustomFunctionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/filterAndMapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/filterAndMapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/ProductOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/ProductOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/miscellenous/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/miscellenous/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/miscellenous/WriteTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/miscellenous/WriteTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oops/Mixer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oops/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainLinkedListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainLinkedListBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,87 +46,93 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AddLargeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddTwoBigString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AddTwoString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BuySellStock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BuySellStock2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculateAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CommonElementInArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comparator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ComparatorCompare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConcurrentModificationException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConvertListToMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountOccurance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DuplicateChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EmployeeSorting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindCommonElementInList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindPivotIndex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstAndLastRepeatedChar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeating.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GroupByLength.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainLinkedListBasic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MajorityElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeTwoArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Print5Times.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ProductOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicateFromSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseEachWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotatedArrayBinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunningSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleResponsibilityMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingletonExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SmallestLargestElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sort0s1sArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareOfSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StartVsRun.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticMethodTest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringCompressor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SumOfEven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WriteTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.filterAndMapping.executor&quot;: &quot;Run&quot;,
-    &quot;Application.polymorphismMain.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code craft/codecrafters-http-server-java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AddLargeNumbers.executor": "Run",
+    "Application.AddTwoBigString.executor": "Run",
+    "Application.AddTwoString.executor": "Run",
+    "Application.ArrayTest.executor": "Run",
+    "Application.BuySellStock.executor": "Run",
+    "Application.BuySellStock2.executor": "Run",
+    "Application.CalculateAverage.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CapTest.executor": "Run",
+    "Application.CommonElementInArrays.executor": "Run",
+    "Application.Comparator.executor": "Run",
+    "Application.ComparatorCompare.executor": "Run",
+    "Application.ConcurrentModificationException.executor": "Run",
+    "Application.ConvertListToMap.executor": "Run",
+    "Application.CountOccurance.executor": "Run",
+    "Application.DuplicateChar.executor": "Run",
+    "Application.EmployeeSorting.executor": "Run",
+    "Application.FibonacciNumber.executor": "Run",
+    "Application.FindCommonElementInList.executor": "Run",
+    "Application.FindPivotIndex.executor": "Run",
+    "Application.FirstAndLastRepeatedChar.executor": "Run",
+    "Application.FirstNonRepeating.executor": "Run",
+    "Application.GroupByLength.executor": "Run",
+    "Application.MainDoublyLinkedListBasic.executor": "Run",
+    "Application.MainLinkedListBasic.executor": "Run",
+    "Application.MajorityElement.executor": "Debug",
+    "Application.MaxElement.executor": "Run",
+    "Application.MaxMin.executor": "Run",
+    "Application.MergeList.executor": "Run",
+    "Application.MergeTwoArray.executor": "Run",
+    "Application.MoveZeros.executor": "Run",
+    "Application.NonStaticVariable.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PlusOne.executor": "Run",
+    "Application.Print5Times.executor": "Run",
+    "Application.ProductOfArray.executor": "Run",
+    "Application.RemoveDuplicateFromSortedArray.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseEachWord.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.RotatedArrayBinarySearch.executor": "Run",
+    "Application.RunningSum.executor": "Run",
+    "Application.SecondHighestNumber.executor": "Run",
+    "Application.SingleResponsibilityMain.executor": "Run",
+    "Application.SingletonExample.executor": "Run",
+    "Application.SmallestLargestElement.executor": "Run",
+    "Application.Sort0s1sArray.executor": "Run",
+    "Application.SortString.executor": "Run",
+    "Application.SquareOfSortedArray.executor": "Run",
+    "Application.StartVsRun.executor": "Run",
+    "Application.StaticMethodTest.executor": "Run",
+    "Application.StaticVariableTest.executor": "Run",
+    "Application.StringCompressor.executor": "Run",
+    "Application.SumOfEven.executor": "Run",
+    "Application.Test.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.WriteTable.executor": "Run",
+    "Application.filterAndMapping.executor": "Run",
+    "Application.polymorphismMain.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code craft/codecrafters-http-server-java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortString">
-    <configuration name="MaxMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.MaxMin" />
+  <component name="RunManager" selected="Application.SumOfEven">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.Calculator" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -144,21 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.RotateArray" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.SortString" />
+    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.EmployeeSorting" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -170,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompressor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.StringCompressor" />
+    <configuration name="MainDoublyLinkedListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.MainDoublyLinkedListBasic" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="DataStructure.LinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +170,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.miscellenous.WriteTable" />
+    <configuration name="MainLinkedListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.MainLinkedListBasic" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.miscellenous.*" />
+          <option name="PATTERN" value="DataStructure.LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.SumOfEven" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortString" />
-        <item itemvalue="Application.MaxMin" />
-        <item itemvalue="Application.StringCompressor" />
-        <item itemvalue="Application.WriteTable" />
-        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.SumOfEven" />
+        <item itemvalue="Application.EmployeeSorting" />
+        <item itemvalue="Application.MainLinkedListBasic" />
+        <item itemvalue="Application.MainDoublyLinkedListBasic" />
+        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -251,6 +251,10 @@
       <workItem from="1734443592496" duration="5473000" />
       <workItem from="1734495330287" duration="3143000" />
       <workItem from="1734671922227" duration="540000" />
+      <workItem from="1735140382826" duration="304000" />
+      <workItem from="1735625068924" duration="1310000" />
+      <workItem from="1735910326890" duration="4218000" />
+      <workItem from="1735952058137" duration="16350000" />
     </task>
     <servers />
   </component>
@@ -305,7 +309,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java</url>
-          <line>31</line>
+          <line>56</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

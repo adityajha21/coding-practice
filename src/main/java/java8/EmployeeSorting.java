@@ -11,9 +11,10 @@ class Employee {
     private String name;
     private Long salary;
 
-    public Employee(int id, String name) {
+    public Employee(int id, String name, Long salary) {
         this.id = id;
         this.name = name;
+        this.salary = salary;
     }
 
     @Override
@@ -25,11 +26,12 @@ class Employee {
 public class EmployeeSorting {
     public static void main(String[] args) {
         List<Employee> employees = Arrays.asList(
-                new Employee(1, "John"),
-                new Employee(2, "Alice"),
-                new Employee(3, "Bob"),
-                new Employee(4,"adity")
+                new Employee(1, "John",202L),
+                new Employee(2, "Alice", 201L),
+                new Employee(3, "Bob", 101L),
+                new Employee(4,"aditya", 155L)
         );
+
 
         // Sort by name in ascending order
         System.out.println("Sort by name in ascending order");
@@ -52,10 +54,23 @@ public class EmployeeSorting {
                 employees.stream().collect(Collectors.groupingBy(emp -> emp.getId()%2));
         System.out.println(groupedEmployees);
 
+       // Group By employee by department  and count number of employees in each department
+        System.out.println("Group Employees by Name and count");
+        Map<String, Long> employeeCountByDepartment = employees.stream()
+                .collect(Collectors.groupingBy(
+                        Employee::getName,
+                        Collectors.counting()
+                ));
+        System.out.println(employeeCountByDepartment);
+
         //Find the Employee with the Longest Name
         System.out.println("Find the Employee with the Longest Name");
         Optional<Employee> longestNames = employees.stream().max(Comparator.comparingInt(e -> e.getName().length()));
         System.out.println(longestNames.get().getName());
+
+        // Highest salary of the employee
+        Optional<Employee> employeeWithHighestSalary = employees.stream().max(Comparator.comparingLong(Employee::getSalary));
+        System.out.println("Highest salary of the employee" + employeeWithHighestSalary.get().getName() +"is "+ employeeWithHighestSalary.get().getSalary() );
 
         // Find list of Employee with longest names
         List<Employee> empList = employees.stream()

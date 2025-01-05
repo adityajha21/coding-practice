@@ -6,15 +6,40 @@ public class LinkedListBasic {
     private int value;
     private Node next;
     private Node head;
-    private Node tail;
-// what is the benefit of taking tail, which is extra node?
-    // because suppose i need to insert node at last, then when i need to traverse till end
+    private Node tail; // what is the benefit of taking tail, which is extra node? -> because suppose i need to insert node at last, then when i need to traverse till end
     //but by using maintaining tail, we can directly insert node at last of the linkedlist
     private int size ;
 
     public LinkedListBasic() {
         this.size = 0;
     }
+
+    public void search(int num) {
+        Node temp = head;
+        while(temp != null) {
+            if (temp.value == num) {
+                System.out.println("Number is found " );
+                break;
+            }
+            temp = temp.next;
+        }
+
+    }
+
+    private class Node {
+        int value;
+        Node next;
+
+        public Node(int value) {
+            this.value = value;
+        }
+
+        public Node(int value, Node next) {
+            this.value = value;
+            this.next = next;
+        }
+    }
+
 
     public void insertAtFirst(int value){
         Node node = new Node(value);
@@ -75,6 +100,7 @@ public class LinkedListBasic {
         size++;
     }
 
+    // insert in the middle
     public int deleteFirst() {
         int value = head.value;
         head = head.next;
@@ -95,6 +121,10 @@ public class LinkedListBasic {
         size--;
         return value;
     }
+
+    // delete by value
+    //search a value in linkedlist
+
     public void display(){
         Node temp = head;
         while(temp !=null) {
@@ -104,17 +134,22 @@ public class LinkedListBasic {
         System.out.println("END");
     }
 
-    private class Node {
-        int value;
-        Node next;
-
-        public Node(int value) {
-            this.value = value;
+    public void reverseLinkedList() {
+        System.out.println("Reverse a Linked List");
+        if(head == null && head.next == null) {
+            return;
         }
+        Node prevNode = head;
+        Node currentNode = head.next;
+        while(currentNode != null) {
+            Node nextNode = currentNode.next;  // hold the address of current Next node
+            currentNode.next = prevNode;  // it linked to previous node
 
-        public Node(int value, Node next) {
-            this.value = value;
-            this.next = next;
+            //update
+            prevNode = currentNode;
+            currentNode = nextNode;
         }
+        head.next = null;
+        head = prevNode;
     }
 }
