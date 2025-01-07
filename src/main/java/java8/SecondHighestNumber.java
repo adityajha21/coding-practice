@@ -1,7 +1,9 @@
 package java8;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Optional;
 
 public class SecondHighestNumber {
     public static void main(String[] args) {
@@ -15,8 +17,11 @@ public class SecondHighestNumber {
            }
        }
         System.out.println("maximum number in list is: " + max);
-    //   System.out.println("Second Highest number in list is" + lis);
 
+       //using java 8
+       Optional<Integer> secondHighest =  list.stream().distinct().sorted(Comparator.reverseOrder())
+               .skip(1).findFirst();
+       System.out.println(secondHighest.get());
 
     }
 }

@@ -15,8 +15,19 @@ public class ReverseEachWord {
             for (int j = word.length() - 1; j >= 0; j--) {
                 rev += word.charAt(j);
             }
-            System.out.println(rev);
+            System.out.print(rev +" ") ;
         }
+        System.out.println(" ");
+
+        // Another way to write this code in O(n)
+        StringBuilder result = new StringBuilder();
+        for (String word : words) {
+            StringBuilder reversedWord = new StringBuilder(word).reverse(); // Reverse each word
+            result.append(reversedWord).append(" "); // Append reversed word
+        }
+
+        // Trim the trailing space and print
+        System.out.println(result.toString().trim());
     }
 }
 

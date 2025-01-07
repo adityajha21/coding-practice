@@ -5,18 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/DoublyLinkedListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainDoublyLinkedListBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/NonStaticVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/StaticVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/CustomFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainLinkedListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainLinkedListBasic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SortString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/ArrayOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/Count01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/CountChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/DemoLambdaExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FilterEvenNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FirstAndLastRepeatedChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FunctionInterfaceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FunctionalInterfaceMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/CountChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/DuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/DuplicateChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/RemoveSpecialCharater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/RemoveSpecialCharater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseEachWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseEachWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +71,7 @@
     "Application.ComparatorCompare.executor": "Run",
     "Application.ConcurrentModificationException.executor": "Run",
     "Application.ConvertListToMap.executor": "Run",
+    "Application.CountChar.executor": "Run",
     "Application.CountOccurance.executor": "Run",
     "Application.DuplicateChar.executor": "Run",
     "Application.EmployeeSorting.executor": "Run",
@@ -86,6 +96,7 @@
     "Application.ProductOfArray.executor": "Run",
     "Application.RemoveDuplicateFromSortedArray.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
+    "Application.RemoveSpecialCharacter.executor": "Run",
     "Application.ReverseEachWord.executor": "Run",
     "Application.ReverseString.executor": "Run",
     "Application.RotateArray.executor": "Run",
@@ -130,13 +141,13 @@
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfEven">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.Calculator" />
+  <component name="RunManager" selected="Application.StringCompressor">
+    <configuration name="AddTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.AddTwoString" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.EmployeeSorting" />
+    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.CountChar" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainDoublyLinkedListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.MainDoublyLinkedListBasic" />
+    <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.DuplicateChar" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.LinkedList.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainLinkedListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.LinkedList.MainLinkedListBasic" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.ReverseString" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.LinkedList.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.SumOfEven" />
+    <configuration name="StringCompressor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.StringCompressor" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfEven" />
-        <item itemvalue="Application.EmployeeSorting" />
-        <item itemvalue="Application.MainLinkedListBasic" />
-        <item itemvalue="Application.MainDoublyLinkedListBasic" />
-        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.StringCompressor" />
+        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.DuplicateChar" />
+        <item itemvalue="Application.AddTwoString" />
+        <item itemvalue="Application.CountChar" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +265,8 @@
       <workItem from="1735140382826" duration="304000" />
       <workItem from="1735625068924" duration="1310000" />
       <workItem from="1735910326890" duration="4218000" />
-      <workItem from="1735952058137" duration="16350000" />
+      <workItem from="1735952058137" duration="19810000" />
+      <workItem from="1736227382477" duration="4747000" />
     </task>
     <servers />
   </component>
@@ -316,6 +328,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MainLinkedListBasic.java</url>
           <line>10</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

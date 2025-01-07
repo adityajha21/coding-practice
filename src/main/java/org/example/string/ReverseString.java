@@ -10,15 +10,16 @@ public class ReverseString {
         String str = "aditya";
         System.out.println("Input String : " +str);
         char[] charArray = str.toCharArray();
-        int start =0 ;
-        int end = charArray.length-1;
-        while(start < end) {
-            char temp = charArray[start] ;
-            charArray[start] = charArray[end];
-            charArray[end] = temp;
+        int startCharacter =0 ;
+        int endCharacter = charArray.length-1;
 
-            start++;
-            end--;
+        while(startCharacter < endCharacter) {
+            char temp = charArray[startCharacter] ;
+            charArray[startCharacter] = charArray[endCharacter];
+            charArray[endCharacter] = temp;
+
+            startCharacter++;
+            endCharacter--;
         }
         System.out.println(Arrays.toString(charArray));
 
@@ -27,13 +28,3 @@ public class ReverseString {
 
     }
 }
-
-    /*    *//*String str = "Aditya Nath Jha" ;
-        String rev = "";
-        for(int i = str.length()-1; i>0; i--) {
-            rev = rev + str.charAt(i);
-        }
-        System.out.println(rev);*//*
-    }
-}
-*/

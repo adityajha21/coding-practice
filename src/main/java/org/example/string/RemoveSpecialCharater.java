@@ -6,11 +6,11 @@ import java.util.regex.Pattern;
 class RemoveSpecialCharacter {
     public static void main(String[] args) {
         String str = "Aditya__Nath$Jha";
-        str = str.replaceAll("[^a-zA-Z0-9]", " ");
-        String result = str.replaceAll("\\s", "");
-        System.out.println(result);
+        str = str.replaceAll("[^a-zA-Z0-9\\s]", " ");
+       // String result = str.replaceAll("\\s", " "); // space between words
+        System.out.println(str);
 
-        StringBuilder strBuild = new StringBuilder(1);
+        /*StringBuilder strBuild = new StringBuilder(1);
         char[] ch = result.toCharArray();
         for(int i=1; i<ch.length; i++) {
             if(Character.isUpperCase(ch[i])){
@@ -21,7 +21,7 @@ class RemoveSpecialCharacter {
                 strBuild.append(ch[i]);
             }
         }
-        System.out.println(strBuild);
+        System.out.println(strBuild);*/
 
     }
 }

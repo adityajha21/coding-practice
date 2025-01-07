@@ -70,7 +70,13 @@ public class EmployeeSorting {
 
         // Highest salary of the employee
         Optional<Employee> employeeWithHighestSalary = employees.stream().max(Comparator.comparingLong(Employee::getSalary));
-        System.out.println("Highest salary of the employee" + employeeWithHighestSalary.get().getName() +"is "+ employeeWithHighestSalary.get().getSalary() );
+        System.out.println("Highest salary of the employee" + employeeWithHighestSalary.get().getName() +"is "+ employeeWithHighestSalary.get().getSalary());
+
+        // Second highest salary
+        Optional<Employee> employeeWithSecondHighestSalary =  employees.stream().distinct()
+                .sorted(Comparator.comparingLong(Employee :: getSalary).reversed()).
+                skip(1).findFirst();
+        System.out.println("Second Highest salary of the employee" + employeeWithSecondHighestSalary.get().getName() +"is "+ employeeWithSecondHighestSalary.get().getSalary() );
 
         // Find list of Employee with longest names
         List<Employee> empList = employees.stream()
