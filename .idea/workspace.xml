@@ -5,27 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/FinalSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/GameWinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/GameWinner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SumOfDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ArrangeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CompareTwoVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/DistinctSubString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/MaxMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SortString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/ArrayOperation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/Count01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/CountChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/DemoLambdaExpression.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FilterEvenNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FirstAndLastRepeatedChar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FunctionInterfaceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/FunctionalInterfaceMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/stream/api/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/CountChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/CountWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/DuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/DuplicateChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/RemoveSpecialCharater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/RemoveSpecialCharater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseEachWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseEachWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +49,7 @@
     "Application.AddLargeNumbers.executor": "Run",
     "Application.AddTwoBigString.executor": "Run",
     "Application.AddTwoString.executor": "Run",
+    "Application.ArrangeWords.executor": "Run",
     "Application.ArrayTest.executor": "Run",
     "Application.BuySellStock.executor": "Run",
     "Application.BuySellStock2.executor": "Run",
@@ -69,23 +59,29 @@
     "Application.CommonElementInArrays.executor": "Run",
     "Application.Comparator.executor": "Run",
     "Application.ComparatorCompare.executor": "Run",
+    "Application.CompareTwoVersion.executor": "Run",
     "Application.ConcurrentModificationException.executor": "Run",
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountChar.executor": "Run",
     "Application.CountOccurance.executor": "Run",
+    "Application.DistinctSubString.executor": "Run",
     "Application.DuplicateChar.executor": "Run",
     "Application.EmployeeSorting.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
+    "Application.FinalSum.executor": "Run",
     "Application.FindCommonElementInList.executor": "Run",
     "Application.FindPivotIndex.executor": "Run",
     "Application.FirstAndLastRepeatedChar.executor": "Run",
     "Application.FirstNonRepeating.executor": "Run",
+    "Application.GameWinner.executor": "Run",
+    "Application.GameWinner2.executor": "Run",
     "Application.GroupByLength.executor": "Run",
     "Application.MainDoublyLinkedListBasic.executor": "Run",
     "Application.MainLinkedListBasic.executor": "Run",
     "Application.MajorityElement.executor": "Debug",
     "Application.MaxElement.executor": "Run",
     "Application.MaxMin.executor": "Run",
+    "Application.MergeIntervals.executor": "Debug",
     "Application.MergeList.executor": "Run",
     "Application.MergeTwoArray.executor": "Run",
     "Application.MoveZeros.executor": "Run",
@@ -106,6 +102,7 @@
     "Application.SingleResponsibilityMain.executor": "Run",
     "Application.SingletonExample.executor": "Run",
     "Application.SmallestLargestElement.executor": "Run",
+    "Application.SnakeAndLadder.executor": "Debug",
     "Application.Sort0s1sArray.executor": "Run",
     "Application.SortString.executor": "Run",
     "Application.SquareOfSortedArray.executor": "Run",
@@ -113,6 +110,7 @@
     "Application.StaticMethodTest.executor": "Run",
     "Application.StaticVariableTest.executor": "Run",
     "Application.StringCompressor.executor": "Run",
+    "Application.SumOfDistance.executor": "Run",
     "Application.SumOfEven.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TwoSum.executor": "Run",
@@ -141,9 +139,9 @@
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringCompressor">
-    <configuration name="AddTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.AddTwoString" />
+  <component name="RunManager" selected="Application.DistinctSubString">
+    <configuration name="DistinctSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.DistinctSubString" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -155,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.CountChar" />
+    <configuration name="FinalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.FinalSum" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="org.example.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.DuplicateChar" />
+    <configuration name="GameWinner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.GameWinner2" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="org.example.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,12 +179,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.ReverseString" />
+    <configuration name="SnakeAndLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.SnakeAndLadder" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="org.example.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +192,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompressor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.StringCompressor" />
+    <configuration name="SumOfDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.SumOfDistance" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="org.example.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringCompressor" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.DuplicateChar" />
-        <item itemvalue="Application.AddTwoString" />
-        <item itemvalue="Application.CountChar" />
+        <item itemvalue="Application.DistinctSubString" />
+        <item itemvalue="Application.SnakeAndLadder" />
+        <item itemvalue="Application.FinalSum" />
+        <item itemvalue="Application.GameWinner2" />
+        <item itemvalue="Application.SumOfDistance" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +264,8 @@
       <workItem from="1735625068924" duration="1310000" />
       <workItem from="1735910326890" duration="4218000" />
       <workItem from="1735952058137" duration="19810000" />
-      <workItem from="1736227382477" duration="4747000" />
+      <workItem from="1736227382477" duration="18992000" />
+      <workItem from="1736387063570" duration="6091000" />
     </task>
     <servers />
   </component>
@@ -333,6 +332,39 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java</url>
           <line>12</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java</url>
+          <line>24</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
