@@ -100,7 +100,7 @@ public class LinkedListBasic {
         size++;
     }
 
-    // insert in the middle
+
     public int deleteFirst() {
         int value = head.value;
         head = head.next;

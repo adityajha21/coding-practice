@@ -9,6 +9,9 @@ public class RemoveDuplicates {
     public static void main(String[] args) {
        // List<String> list = Arrays.asList("aditya","bittu","aditya");
         List<Integer> list = Arrays.asList(2,3,4,4);
+        List<Integer> removeDuplicate = list.stream().distinct().toList();
+        System.out.println(removeDuplicate);
+
       //  HashSet<String> newList = (HashSet<String>) list.stream().collect(Collectors.toSet());
         List<Integer> newList = list.stream().map(i -> i*i).distinct().toList();
         System.out.println(newList);

@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/FinalSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/GameWinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/GameWinner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SumOfDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ArrangeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CompareTwoVersion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/DistinctSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MergeLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ColorOfChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/SubSequenceOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/CustomLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/InvalidIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +60,7 @@
     "Application.CalculateAverage.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CapTest.executor": "Run",
+    "Application.ColorOfChessBoard.executor": "Run",
     "Application.CommonElementInArrays.executor": "Run",
     "Application.Comparator.executor": "Run",
     "Application.ComparatorCompare.executor": "Run",
@@ -64,7 +69,7 @@
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountChar.executor": "Run",
     "Application.CountOccurance.executor": "Run",
-    "Application.DistinctSubString.executor": "Run",
+    "Application.DistinctSubString.executor": "Debug",
     "Application.DuplicateChar.executor": "Run",
     "Application.EmployeeSorting.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
@@ -82,6 +87,7 @@
     "Application.MaxElement.executor": "Run",
     "Application.MaxMin.executor": "Run",
     "Application.MergeIntervals.executor": "Debug",
+    "Application.MergeLinkedList.executor": "Run",
     "Application.MergeList.executor": "Run",
     "Application.MergeTwoArray.executor": "Run",
     "Application.MoveZeros.executor": "Run",
@@ -110,11 +116,13 @@
     "Application.StaticMethodTest.executor": "Run",
     "Application.StaticVariableTest.executor": "Run",
     "Application.StringCompressor.executor": "Run",
+    "Application.SubSequenceOfString.executor": "Run",
     "Application.SumOfDistance.executor": "Run",
     "Application.SumOfEven.executor": "Run",
     "Application.Test.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.WriteTable.executor": "Run",
+    "Application.countSubstringsWithUniqueCharacters.executor": "Run",
     "Application.filterAndMapping.executor": "Run",
     "Application.polymorphismMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -139,9 +147,48 @@
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DistinctSubString">
-    <configuration name="DistinctSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.DistinctSubString" />
+  <component name="RunManager" selected="Application.SubSequenceOfString">
+    <configuration name="ColorOfChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ColorOfChessBoard" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertListToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.ConvertListToMap" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.FirstNonRepeating" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubSequenceOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.SubSequenceOfString" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -153,51 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.FinalSum" />
+    <configuration name="countSubstringsWithUniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.countSubstringsWithUniqueCharacters" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GameWinner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.GameWinner2" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SnakeAndLadder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.SnakeAndLadder" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arrays.SumOfDistance" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.arrays.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DistinctSubString" />
-        <item itemvalue="Application.SnakeAndLadder" />
-        <item itemvalue="Application.FinalSum" />
-        <item itemvalue="Application.GameWinner2" />
-        <item itemvalue="Application.SumOfDistance" />
+        <item itemvalue="Application.SubSequenceOfString" />
+        <item itemvalue="Application.countSubstringsWithUniqueCharacters" />
+        <item itemvalue="Application.ColorOfChessBoard" />
+        <item itemvalue="Application.ConvertListToMap" />
+        <item itemvalue="Application.FirstNonRepeating" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +273,10 @@
       <workItem from="1735910326890" duration="4218000" />
       <workItem from="1735952058137" duration="19810000" />
       <workItem from="1736227382477" duration="18992000" />
-      <workItem from="1736387063570" duration="6091000" />
+      <workItem from="1736387063570" duration="10646000" />
+      <workItem from="1736699355382" duration="1004000" />
+      <workItem from="1736700400691" duration="1188000" />
+      <workItem from="1736819418969" duration="5346000" />
     </task>
     <servers />
   </component>
@@ -365,6 +376,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/SnakeAndLadder.java</url>
           <line>59</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/DistinctSubString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

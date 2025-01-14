@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 
 public class FirstNonRepeating {
     public static void main(String[] args) {
-        String str = "adityyy";
+        String str = "adityyyad";
        /* Map<Character, Long> map = str.chars().mapToObj(c->(char)c)
                 .collect(Collectors.groupingBy(Function.identity(),Collectors.counting()));
         System.out.println(map);
