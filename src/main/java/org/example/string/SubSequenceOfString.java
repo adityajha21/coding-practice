@@ -3,7 +3,7 @@ package org.example.string;
 public class SubSequenceOfString  {
     public static void main(String[] args) {
         String s = "abc";
-        String t = "ahbgdc";
+        String t = "ahgc";
         if(isSubSequenceOfString(s,t))
             System.out.println("True");
         else System.out.println("false");

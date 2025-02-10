@@ -9,7 +9,8 @@ public class ComparatorCompare {
 
         List<Integer> numbers = Arrays.asList(5, 3, 8, 1, 2);
         //comparable
-        numbers.stream().sorted().forEach(System.out :: println);
+       List<Integer> result = numbers.stream().sorted().toList();
+        System.out.println(result);
         numbers.stream().sorted(Comparator.reverseOrder()).forEach(System.out :: println);
 
         //comparator

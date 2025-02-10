@@ -12,10 +12,15 @@ public class NonStaticVariable {
 
         NonStaticVariable nsv = new NonStaticVariable();
         nsv.instance = 42;
-        System.out.println(nsv.instance);
+        System.out.println("You are inside static method and you can ony call non static method by creating instance of it" +nsv.instance);
+    }
+    public void instanceMethod() {
+        System.out.println("You are inside Non Static variable and you can call non static method without creating Instance of it" +instance);
     }
 
     public static void main(String[] args) {
         staticMethod();
+        NonStaticVariable nsv = new NonStaticVariable();
+        nsv.instanceMethod();
     }
 }

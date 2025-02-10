@@ -2,7 +2,7 @@ package leetcode;
 
 public class BuySellStock {
     public static void main(String[] args) {
-        int[] price = {7,1,5,3,6,4};
+        int[] price = {7,1,5,3,6,40};
         int buyPrice = price[0];
         int maxProfit = 0;
 

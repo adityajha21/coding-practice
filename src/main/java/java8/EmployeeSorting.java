@@ -27,7 +27,7 @@ public class EmployeeSorting {
     public static void main(String[] args) {
         List<Employee> employees = Arrays.asList(
                 new Employee(1, "John",202L),
-                new Employee(2, "Alice", 201L),
+                new Employee(2, "Bob", 201L),
                 new Employee(3, "Bob", 101L),
                 new Employee(4,"aditya", 155L)
         );
@@ -94,11 +94,17 @@ public class EmployeeSorting {
                 collect(Collectors.toMap(Employee::getId,Employee::getName));
         System.out.println(newMap);
 
+        System.out.println("Print Employee name whose salary is less than 200");
+        employees.stream().filter(e -> e.getSalary() > 100).forEach(s->s.getName());
+
         //Find Duplicate Names
         System.out.println("Find Duplicate Names");
         Set<String> hashSet = new HashSet<>();
         List<Employee> duplicateNames = employees.stream().filter(e -> !hashSet.add(e.getName())).toList();
         System.out.println(duplicateNames);
+
+        System.out.println("Best to filter Unique Names");
+        employees.stream().map(i -> i.getName()).distinct().toList().forEach(System.out::println);
         
     }
 

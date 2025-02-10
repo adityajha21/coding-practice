@@ -8,7 +8,7 @@ import java.util.List;
 public class MergeIntervals {
     public static void main(String[] args) {
         int[][] intervals = {
-                {1, 3}, {2, 6}, {8, 10}, {15, 18}
+                {1, 3}, {2, 6}, {8, 16}, {15, 18}
         };
 
         int[][] result = mergeIntervals(intervals);
@@ -21,7 +21,7 @@ public class MergeIntervals {
     private static int[][] mergeIntervals(int[][] intervals) {
         if (intervals.length <= 1) return intervals;
 
-        // Sort by ascending starting point
+       // Sort by ascending starting point
         Arrays.sort(intervals, Comparator.comparingInt(i -> i[0]));
 
         List<int[]> result = new ArrayList<>();

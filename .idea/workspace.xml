@@ -5,20 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/MergeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ColorOfChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/SubSequenceOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/HashMapWithOrderedSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java8/OptionaClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/TwoPointerTripletsum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/maths/PointInTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CheckDigitSumAndCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DataStructure/LinkedList/LinkedListBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/NonStaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/NonStaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/ComparatorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ComparatorCompare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/CountOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SecondHighestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/CustomLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/InvalidIndex.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/linkedlist/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/CommonElementInArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/CommonElementInArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/CountTheTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/CountTheTriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/SmallestLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SmallestLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/SubSequenceOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/SubSequenceOfString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +66,16 @@
     "Application.AddLargeNumbers.executor": "Run",
     "Application.AddTwoBigString.executor": "Run",
     "Application.AddTwoString.executor": "Run",
+    "Application.Anagram.executor": "Run",
     "Application.ArrangeWords.executor": "Run",
+    "Application.ArrayRearrange.executor": "Run",
     "Application.ArrayTest.executor": "Run",
     "Application.BuySellStock.executor": "Run",
     "Application.BuySellStock2.executor": "Run",
     "Application.CalculateAverage.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.CapTest.executor": "Run",
+    "Application.CheckDigitSumAndCount.executor": "Run",
     "Application.ColorOfChessBoard.executor": "Run",
     "Application.CommonElementInArrays.executor": "Run",
     "Application.Comparator.executor": "Run",
@@ -69,8 +85,11 @@
     "Application.ConvertListToMap.executor": "Run",
     "Application.CountChar.executor": "Run",
     "Application.CountOccurance.executor": "Run",
+    "Application.CountOccurrence.executor": "Run",
+    "Application.CountSubstringsWithUniqueCharacters.executor": "Run",
     "Application.DistinctSubString.executor": "Debug",
     "Application.DuplicateChar.executor": "Run",
+    "Application.EmployeeMain.executor": "Run",
     "Application.EmployeeSorting.executor": "Run",
     "Application.FibonacciNumber.executor": "Run",
     "Application.FinalSum.executor": "Run",
@@ -81,25 +100,35 @@
     "Application.GameWinner.executor": "Run",
     "Application.GameWinner2.executor": "Run",
     "Application.GroupByLength.executor": "Run",
+    "Application.HashMapWithOrderedSet.executor": "Run",
+    "Application.IntersectionOfTwoArrays.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MainDoublyLinkedListBasic.executor": "Run",
     "Application.MainLinkedListBasic.executor": "Run",
+    "Application.MainTest.executor": "Run",
     "Application.MajorityElement.executor": "Debug",
     "Application.MaxElement.executor": "Run",
     "Application.MaxMin.executor": "Run",
-    "Application.MergeIntervals.executor": "Debug",
+    "Application.MergeIntervals.executor": "Run",
     "Application.MergeLinkedList.executor": "Run",
     "Application.MergeList.executor": "Run",
     "Application.MergeTwoArray.executor": "Run",
     "Application.MoveZeros.executor": "Run",
+    "Application.NextGreatestElement.executor": "Run",
+    "Application.NextGretestElement.executor": "Run",
     "Application.NonStaticVariable.executor": "Run",
+    "Application.OptionaClass.executor": "Run",
     "Application.Palindrome.executor": "Run",
     "Application.PlusOne.executor": "Run",
+    "Application.PointInTriangle.executor": "Run",
     "Application.Print5Times.executor": "Run",
     "Application.ProductOfArray.executor": "Run",
     "Application.RemoveDuplicateFromSortedArray.executor": "Run",
     "Application.RemoveDuplicates.executor": "Run",
     "Application.RemoveSpecialCharacter.executor": "Run",
     "Application.ReverseEachWord.executor": "Run",
+    "Application.ReverseInteger.executor": "Run",
+    "Application.ReverseSentence.executor": "Debug",
     "Application.ReverseString.executor": "Run",
     "Application.RotateArray.executor": "Run",
     "Application.RotatedArrayBinarySearch.executor": "Run",
@@ -120,6 +149,8 @@
     "Application.SumOfDistance.executor": "Run",
     "Application.SumOfEven.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Tripletsum.executor": "Run",
+    "Application.TwoPointerTripletsum.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.WriteTable.executor": "Run",
     "Application.countSubstringsWithUniqueCharacters.executor": "Run",
@@ -138,7 +169,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -147,48 +178,9 @@
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SubSequenceOfString">
-    <configuration name="ColorOfChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.ColorOfChessBoard" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertListToMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.ConvertListToMap" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.FirstNonRepeating" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSequenceOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.SubSequenceOfString" />
+  <component name="RunManager" selected="Application.ReverseSentence">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.Anagram" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -200,8 +192,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countSubstringsWithUniqueCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.countSubstringsWithUniqueCharacters" />
+    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.EmployeeSorting" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapWithOrderedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.HashMapWithOrderedSet" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseEachWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.ReverseEachWord" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.ReverseSentence" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -215,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubSequenceOfString" />
-        <item itemvalue="Application.countSubstringsWithUniqueCharacters" />
-        <item itemvalue="Application.ColorOfChessBoard" />
-        <item itemvalue="Application.ConvertListToMap" />
-        <item itemvalue="Application.FirstNonRepeating" />
+        <item itemvalue="Application.ReverseSentence" />
+        <item itemvalue="Application.ReverseEachWord" />
+        <item itemvalue="Application.Anagram" />
+        <item itemvalue="Application.EmployeeSorting" />
+        <item itemvalue="Application.HashMapWithOrderedSet" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +307,25 @@
       <workItem from="1736387063570" duration="10646000" />
       <workItem from="1736699355382" duration="1004000" />
       <workItem from="1736700400691" duration="1188000" />
-      <workItem from="1736819418969" duration="5346000" />
+      <workItem from="1736819418969" duration="6826000" />
+      <workItem from="1736950508830" duration="346000" />
+      <workItem from="1736991377267" duration="1518000" />
+      <workItem from="1737002805581" duration="7687000" />
+      <workItem from="1737085881209" duration="5542000" />
+      <workItem from="1737287055655" duration="4519000" />
+      <workItem from="1737350652171" duration="1860000" />
+      <workItem from="1737355234395" duration="11306000" />
+      <workItem from="1737685912809" duration="899000" />
+      <workItem from="1737769815232" duration="2894000" />
+      <workItem from="1737814254491" duration="6363000" />
+      <workItem from="1738215504952" duration="2895000" />
+      <workItem from="1738327129617" duration="534000" />
+      <workItem from="1738401272801" duration="5452000" />
+      <workItem from="1738833399107" duration="1606000" />
+      <workItem from="1738838922817" duration="602000" />
+      <workItem from="1738912631566" duration="840000" />
+      <workItem from="1738915867266" duration="828000" />
+      <workItem from="1739101674311" duration="4424000" />
     </task>
     <servers />
   </component>
@@ -386,6 +435,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java</url>
           <line>34</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/CheckDigitSumAndCount.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/CommonElementInArrays.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

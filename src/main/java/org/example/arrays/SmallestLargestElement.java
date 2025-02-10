@@ -5,15 +5,21 @@ package org.example.arrays;
 public class SmallestLargestElement {
     public static void main(String[] args) {
         int[] arr = { 7, 21, 3, 1, 50, 6, 11, 8, 9, 10 };
-        System.out.println("Start ... ");
-        int max = 0,min = 0;
+        int largest = Integer.MIN_VALUE;
+        int secondLargest = Integer.MIN_VALUE;
 
+        // Use a standard for loop
         for (int i = 0; i < arr.length; i++) {
-            if(max < arr[i]){
-                max = arr[i];
+            if (arr[i] > largest) {
+                // Update second largest before updating largest
+                secondLargest = largest;
+                largest = arr[i];
+            } else if (arr[i] > secondLargest && arr[i] != largest) {
+                // Update second largest if it's greater than current second largest and not equal to the largest
+                secondLargest = arr[i];
             }
         }
-        System.out.println("Largest Element : " +max);
+        System.out.println("Largest Element : " +secondLargest);
 
 
 

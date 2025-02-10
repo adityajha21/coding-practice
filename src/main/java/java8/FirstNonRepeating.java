@@ -20,7 +20,7 @@ public class FirstNonRepeating {
         ,Collectors.counting()));
         System.out.println(map);
 
-        Optional<Map.Entry<Character, Long>> c = map.entrySet().stream().filter(m -> m.getValue() >1).findFirst();
+        Optional<Map.Entry<Character, Long>> c = map.entrySet().stream().filter(m -> m.getValue() >1).skip(1).findFirst();
         if (c.isPresent()) {
             System.out.println("Character found: " + c.get());
         } else {

@@ -6,7 +6,7 @@ public class StringCompressor {
         System.out.println(compressString(input));
     }
 
-    private static String compressString(String input) {
+   /* private static String compressString(String input) {
         char[] chars = input.toCharArray();
         StringBuilder output = new StringBuilder();
         int count = 1;
@@ -22,9 +22,9 @@ public class StringCompressor {
         }
         output.append(chars[chars.length-1]).append(count);
         return output.toString();
-    }
+    }*/
 
-   /* public static String compressString(String input) {
+    public static String compressString(String input) {
         if (input == null || input.isEmpty()) {
             return "";
         }
@@ -45,5 +45,5 @@ public class StringCompressor {
         compressed.append(count).append(input.charAt(input.length() - 1));
 
         return compressed.toString();
-    }*/
+    }
 }
