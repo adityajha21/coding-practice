@@ -32,6 +32,9 @@ public class EmployeeSorting {
                 new Employee(4,"aditya", 155L)
         );
 
+        // filter employee whose salary is more than 200 and return list of employee in UPPER case
+        employees.stream().filter(e -> e.getSalary() > 200)
+                .map(e -> e.getName().toUpperCase()).toList().forEach(System.out::println);
 
         // Sort by name in ascending order
         System.out.println("Sort by name in ascending order");
@@ -104,7 +107,7 @@ public class EmployeeSorting {
         System.out.println(duplicateNames);
 
         System.out.println("Best to filter Unique Names");
-        employees.stream().map(i -> i.getName()).distinct().toList().forEach(System.out::println);
+        employees.stream().map(Employee ::getName).distinct().toList().forEach(System.out::println);
         
     }
 

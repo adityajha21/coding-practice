@@ -1,17 +1,31 @@
 package leetcode;
 
 import java.util.Arrays;
-
+// Two Pointer approach
 public class TwoSum {
     public static void main(String[] args) {
-        int[] nums = {3,2,1,4,6,3,7};
-        int target = 5;
-       int[] indicesArray =  twoSum(nums,target);
-       // System.out.println(Arrays.toString(Arrays.stream(indicesArray).toArray()));
-        System.out.println(Arrays.toString(indicesArray));
+        int[] nums = {1,2,3,4,5};
+        int target = 7;
+        System.out.println(Arrays.toString(twoSum(nums,target)));
     }
-    //Brute force approach
+
     public static int[] twoSum(int[] nums, int target) {
+        int left = 0, right = nums.length-1;
+        while (left < right) {
+            int sum = nums[left] + nums[right];
+            if(sum == target) {
+                return new int[]{left+1, right+1};  // storing value based, not index based
+            } else if(sum > target)  // 6 > 7
+                right --;
+            else left++;
+        }
+        return new int[]{-1,-1};
+    }
+
+
+
+    //Brute force approach
+ /*   public static int[] twoSum(int[] nums, int target) {
         int[] finalArray = new int[2];
         for (int i = 0; i < nums.length; i++) {
             for (int j = i+1; j < nums.length; j++) {
@@ -22,5 +36,5 @@ public class TwoSum {
             } 
         }
         return finalArray;
-    }
+    }*/
 }

@@ -5,33 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/HashMapWithOrderedSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/java8/OptionaClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/TwoPointerTripletsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/maths/PointInTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CheckDigitSumAndCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/CheckAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/CountTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/PrintSeriesOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/TwoIndices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/NewsPaper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/NewsPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/ObserverMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/TvChannel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ContainerWithMostWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/DisappearedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinTimeVisitingPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SmallerNumbersThanCurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ValidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/OddEvenThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/NonStaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/NonStaticVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/ComparatorCompare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ComparatorCompare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/CountOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/CountOccurrence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/FirstNonRepeating.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/OptionaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/OptionaClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/CommonElementInArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/CommonElementInArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/CountTheTriplet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/CountTheTriplet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicateFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicateFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RunningSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RunningSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/SmallestLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/SmallestLargestElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/StringCompressor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/SubSequenceOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/SubSequenceOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ArrangeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ArrangeWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,130 +73,152 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AddLargeNumbers.executor": "Run",
-    "Application.AddTwoBigString.executor": "Run",
-    "Application.AddTwoString.executor": "Run",
-    "Application.Anagram.executor": "Run",
-    "Application.ArrangeWords.executor": "Run",
-    "Application.ArrayRearrange.executor": "Run",
-    "Application.ArrayTest.executor": "Run",
-    "Application.BuySellStock.executor": "Run",
-    "Application.BuySellStock2.executor": "Run",
-    "Application.CalculateAverage.executor": "Run",
-    "Application.Calculator.executor": "Run",
-    "Application.CapTest.executor": "Run",
-    "Application.CheckDigitSumAndCount.executor": "Run",
-    "Application.ColorOfChessBoard.executor": "Run",
-    "Application.CommonElementInArrays.executor": "Run",
-    "Application.Comparator.executor": "Run",
-    "Application.ComparatorCompare.executor": "Run",
-    "Application.CompareTwoVersion.executor": "Run",
-    "Application.ConcurrentModificationException.executor": "Run",
-    "Application.ConvertListToMap.executor": "Run",
-    "Application.CountChar.executor": "Run",
-    "Application.CountOccurance.executor": "Run",
-    "Application.CountOccurrence.executor": "Run",
-    "Application.CountSubstringsWithUniqueCharacters.executor": "Run",
-    "Application.DistinctSubString.executor": "Debug",
-    "Application.DuplicateChar.executor": "Run",
-    "Application.EmployeeMain.executor": "Run",
-    "Application.EmployeeSorting.executor": "Run",
-    "Application.FibonacciNumber.executor": "Run",
-    "Application.FinalSum.executor": "Run",
-    "Application.FindCommonElementInList.executor": "Run",
-    "Application.FindPivotIndex.executor": "Run",
-    "Application.FirstAndLastRepeatedChar.executor": "Run",
-    "Application.FirstNonRepeating.executor": "Run",
-    "Application.GameWinner.executor": "Run",
-    "Application.GameWinner2.executor": "Run",
-    "Application.GroupByLength.executor": "Run",
-    "Application.HashMapWithOrderedSet.executor": "Run",
-    "Application.IntersectionOfTwoArrays.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MainDoublyLinkedListBasic.executor": "Run",
-    "Application.MainLinkedListBasic.executor": "Run",
-    "Application.MainTest.executor": "Run",
-    "Application.MajorityElement.executor": "Debug",
-    "Application.MaxElement.executor": "Run",
-    "Application.MaxMin.executor": "Run",
-    "Application.MergeIntervals.executor": "Run",
-    "Application.MergeLinkedList.executor": "Run",
-    "Application.MergeList.executor": "Run",
-    "Application.MergeTwoArray.executor": "Run",
-    "Application.MoveZeros.executor": "Run",
-    "Application.NextGreatestElement.executor": "Run",
-    "Application.NextGretestElement.executor": "Run",
-    "Application.NonStaticVariable.executor": "Run",
-    "Application.OptionaClass.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "Application.PlusOne.executor": "Run",
-    "Application.PointInTriangle.executor": "Run",
-    "Application.Print5Times.executor": "Run",
-    "Application.ProductOfArray.executor": "Run",
-    "Application.RemoveDuplicateFromSortedArray.executor": "Run",
-    "Application.RemoveDuplicates.executor": "Run",
-    "Application.RemoveSpecialCharacter.executor": "Run",
-    "Application.ReverseEachWord.executor": "Run",
-    "Application.ReverseInteger.executor": "Run",
-    "Application.ReverseSentence.executor": "Debug",
-    "Application.ReverseString.executor": "Run",
-    "Application.RotateArray.executor": "Run",
-    "Application.RotatedArrayBinarySearch.executor": "Run",
-    "Application.RunningSum.executor": "Run",
-    "Application.SecondHighestNumber.executor": "Run",
-    "Application.SingleResponsibilityMain.executor": "Run",
-    "Application.SingletonExample.executor": "Run",
-    "Application.SmallestLargestElement.executor": "Run",
-    "Application.SnakeAndLadder.executor": "Debug",
-    "Application.Sort0s1sArray.executor": "Run",
-    "Application.SortString.executor": "Run",
-    "Application.SquareOfSortedArray.executor": "Run",
-    "Application.StartVsRun.executor": "Run",
-    "Application.StaticMethodTest.executor": "Run",
-    "Application.StaticVariableTest.executor": "Run",
-    "Application.StringCompressor.executor": "Run",
-    "Application.SubSequenceOfString.executor": "Run",
-    "Application.SumOfDistance.executor": "Run",
-    "Application.SumOfEven.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.Tripletsum.executor": "Run",
-    "Application.TwoPointerTripletsum.executor": "Run",
-    "Application.TwoSum.executor": "Run",
-    "Application.WriteTable.executor": "Run",
-    "Application.countSubstringsWithUniqueCharacters.executor": "Run",
-    "Application.filterAndMapping.executor": "Run",
-    "Application.polymorphismMain.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/code craft/codecrafters-http-server-java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AddLargeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddTwoBigString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AddTwoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrangeWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayRearrange.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuySellStock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuySellStock2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculateAverage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CapTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckAnagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckDigitSumAndCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ColorOfChessBoard.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonElementInArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComparatorCompare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompareTwoVersion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConcurrentModificationException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainerWithMostWater.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConvertListToMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOccurance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSubstringsWithUniqueCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountTheTriplet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountTriplet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DisappearedNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistinctSubString.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DuplicateChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinalSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindCommonElementInList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindPivotIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstAndLastRepeatedChar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GameWinner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GameWinner2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GroupByLength.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapWithOrderedSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntersectionOfTwoArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainDoublyLinkedListBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainLinkedListBasic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeIntervals.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinSizeSubarraySum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinTimeVisitingPoints.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeros.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NextGreatestElement.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.NextGretestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NonStaticVariable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ObserverMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptionaClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PointInTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print5Times.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintSeriesOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateFromSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveSpecialCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseEachWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseSentence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotatedArrayBinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RunningSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondHighestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleResponsibilityMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallerNumbersThanCurrent.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestLargestElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SnakeAndLadder.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Sort0s1sArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SquareOfSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StartVsRun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticMethodTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticVariableTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringCompressor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubSequenceOfString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDistance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tripletsum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoPointerTripletsum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ValidPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.countSubstringsWithUniqueCharacters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.filterAndMapping.executor&quot;: &quot;Run&quot;,
+    &quot;Application.polymorphismMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code craft/codecrafters-http-server-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADITYA\IdeaProjects\2024-code\src\main\java\org\example" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="multithreading" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseSentence">
-    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.Anagram" />
+  <component name="RunManager" selected="Application.CheckAnagram">
+    <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.pratice.CheckAnagram" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="core.java.pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.EmployeeSorting" />
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MajorityElement" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMapWithOrderedSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.HashMapWithOrderedSet" />
+    <configuration name="PrintSeriesOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.pratice.PrintSeriesOfNumber" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.*" />
+          <option name="PATTERN" value="core.java.pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseEachWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.ReverseEachWord" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.RotateArray" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="org.example.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.string.ReverseSentence" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.pratice.Test1" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.string.*" />
+          <option name="PATTERN" value="core.java.pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseSentence" />
-        <item itemvalue="Application.ReverseEachWord" />
-        <item itemvalue="Application.Anagram" />
-        <item itemvalue="Application.EmployeeSorting" />
-        <item itemvalue="Application.HashMapWithOrderedSet" />
+        <item itemvalue="Application.CheckAnagram" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.PrintSeriesOfNumber" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +359,24 @@
       <workItem from="1738838922817" duration="602000" />
       <workItem from="1738912631566" duration="840000" />
       <workItem from="1738915867266" duration="828000" />
-      <workItem from="1739101674311" duration="4424000" />
+      <workItem from="1739101674311" duration="6084000" />
+      <workItem from="1739190348776" duration="290000" />
+      <workItem from="1739190837283" duration="17732000" />
+      <workItem from="1739354858316" duration="6296000" />
+      <workItem from="1739680050234" duration="1743000" />
+      <workItem from="1739715683988" duration="6967000" />
+      <workItem from="1739782886850" duration="1005000" />
+      <workItem from="1739877722811" duration="1148000" />
+      <workItem from="1739879518276" duration="76000" />
+      <workItem from="1739882489692" duration="3052000" />
+      <workItem from="1740377522722" duration="8207000" />
+      <workItem from="1740707917583" duration="888000" />
+      <workItem from="1740714213219" duration="3310000" />
+      <workItem from="1740722427713" duration="11456000" />
+      <workItem from="1740813139670" duration="4792000" />
+      <workItem from="1741050934660" duration="18587000" />
+      <workItem from="1741171816782" duration="1906000" />
+      <workItem from="1741266314985" duration="345000" />
     </task>
     <servers />
   </component>
@@ -353,9 +404,18 @@
           </properties>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/core/java/pratice/ArrayTest.java</url>
+          <line>6</line>
+          <properties class="core.java.pratice.ArrayTest" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/BuySellStock2.java</url>
-          <line>9</line>
+          <line>23</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -447,9 +507,59 @@
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/java/pratice/CountTriplet.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java</url>
           <line>17</line>
-          <option name="timeStamp" value="31" />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/IsSubsequence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/ValidPalindrome.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicateFromSortedArray.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/java8/OptionaClass.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoSortedArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

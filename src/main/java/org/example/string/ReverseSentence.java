@@ -10,18 +10,14 @@ public class ReverseSentence {
         String[] strArray = str.split(" ");
         Stack<String> stack = new Stack<>();
 
-        for(int i=0; i<strArray.length; i++) {
-            stack.push(strArray[i]);
-        }
+      for(String string : strArray) {
+          stack.push(string);
+      }
+        StringBuilder sb = new StringBuilder();
+      while(!stack.isEmpty()) {
+          sb.append(stack.pop() +" ");
+      }
+      System.out.println(sb.toString().trim());
 
-        for(int i =0 ; i<=stack.size(); i++) {
-            System.out.print(stack.pop() +" ");
-        }
-
-
-       /* for(int i = strArray.length - 1; i >= 0; i--) {
-            stack.push(strArray[i]);
-        }
-        System.out.println(stack);*/
     }
 }

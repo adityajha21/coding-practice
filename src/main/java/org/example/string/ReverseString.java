@@ -10,7 +10,7 @@ public class ReverseString {
         String str = "aditya";
         System.out.println("Input String : " +str);
         char[] charArray = str.toCharArray();
-        int startCharacter =0 ;
+        int startCharacter = 0 ;
         int endCharacter = charArray.length-1;
 
         while(startCharacter < endCharacter) {

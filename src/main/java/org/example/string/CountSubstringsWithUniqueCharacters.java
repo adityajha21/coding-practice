@@ -33,7 +33,8 @@ public class CountSubstringsWithUniqueCharacters {
 
             // All substrings from left to right have unique characters
             count += (right - left + 1);
-            System.out.println(s.charAt(right) +" " + s.charAt(left));
+            System.out.println(s.charAt(right));
+            System.out.println(s.charAt(left));
         }
         System.out.println(set);
 

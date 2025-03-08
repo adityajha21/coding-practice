@@ -4,16 +4,22 @@ import java.util.Arrays;
 
 public class MergeTwoSortedArray {
     public static void main(String[] args) {
-        int[] arr1 = {1,2,3,4,5};
-        int[] arr2 = {6,7,8,9};
-        int[] finalArray = new int[arr1.length + arr1.length -1];
+        // this is working code in leetcode
+        int[] nums1 ={1,2,3,0,0,0};
+        int m =3, n=3;
+        int p1 = m-1, p2 = n-1;
+        int[] nums2 = {2,5,6};
+        int i = m+n -1;
 
-        for(int i=0; i<arr1.length; i++) {
-           finalArray[i] = arr1[i];
+        // o/p : [1,2,2,3,5,6]
+
+        while(p2 >= 0 ) {
+            if(p1>=0 && nums1[p1] > nums2[p2]) {
+                nums1[i--] = nums1[p1--];
+            } else {
+                nums1[i--] = nums2[p2--];
+            }
         }
-        for(int i=0; i<arr2.length; i++) {
-            finalArray[arr1.length+ i] = arr2[i];
-        }
-        System.out.println(Arrays.toString(finalArray));
+        System.out.println(Arrays.toString(nums1));
     }
 }
