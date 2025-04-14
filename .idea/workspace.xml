@@ -5,44 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86e232b5-8b11-4ce5-9966-1b081afc5eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/ArrayTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/CheckAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/CountTriplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/PrintSeriesOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/TwoIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/NewsPaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/NewsPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/ObserverMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/TvChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/DisappearedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/IsSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/MinTimeVisitingPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/SmallerNumbersThanCurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/OddEvenThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/CapgeminiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/IndexOfVowle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/SecondHighestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/design/pattern/observer/Builder/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/FindKthLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/PrintOddEvenUsing2Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/ProducerConsumer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/multithreading/ProducerConsumerProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RemoveDuplicateAnd0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/ExceptionReturn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/java/pratice/SingletonExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/ConvertListToMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/CountOccurrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/CountOccurrence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/EmployeeSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/java8/OptionaClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/OptionaClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/SumOfEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/AddStrings.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/BuySellStock2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicateFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveDuplicateFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RunningSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RunningSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/MinSizeSubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/NextGreatestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/multithreading/OddEvenThread.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arrays/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ArrangeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ArrangeWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/CountSubstringsWithUniqueCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/ExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/InvalidAgeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/exception/InvalidAgeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/exception/Test9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oops/polymorphism/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/oops/polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/oops/polymorphism/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +99,10 @@
     &quot;Application.CalculateAverage.executor&quot;: &quot;Run&quot;,
     &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.CapTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CapgeminiTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.CheckAnagram.executor&quot;: &quot;Run&quot;,
     &quot;Application.CheckDigitSumAndCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CodeTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.ColorOfChessBoard.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonElementInArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.Comparator.executor&quot;: &quot;Run&quot;,
@@ -110,23 +123,30 @@
     &quot;Application.DuplicateChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.EmployeeMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.EmployeeSorting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.FibonacciNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.FinalSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindCommonElementInList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindKthLargestElement.executor&quot;: &quot;Debug&quot;,
     &quot;Application.FindPivotIndex.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstAndLastRepeatedChar.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstNonRepeating.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FlatMap.executor&quot;: &quot;Run&quot;,
     &quot;Application.GameWinner.executor&quot;: &quot;Run&quot;,
     &quot;Application.GameWinner2.executor&quot;: &quot;Run&quot;,
     &quot;Application.GroupByLength.executor&quot;: &quot;Run&quot;,
     &quot;Application.HashMapWithOrderedSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IndexOfVowle.executor&quot;: &quot;Run&quot;,
     &quot;Application.IntersectionOfTwoArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.IsSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LargestNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainDoublyLinkedListBasic.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainLinkedListBasic.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainThread.executor&quot;: &quot;Run&quot;,
     &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxMin.executor&quot;: &quot;Run&quot;,
@@ -148,8 +168,12 @@
     &quot;Application.PlusOne.executor&quot;: &quot;Run&quot;,
     &quot;Application.PointInTriangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Print5Times.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintOddEvenUsing2Threads.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintSeriesOfNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumer2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProducerConsumerProblem.executor&quot;: &quot;Run&quot;,
     &quot;Application.ProductOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RemoveDuplicateAnd0.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicateFromSortedArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveElement.executor&quot;: &quot;Run&quot;,
@@ -158,6 +182,7 @@
     &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseSentence.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseVowel.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RotateArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RotatedArrayBinarySearch.executor&quot;: &quot;Run&quot;,
     &quot;Application.RunningSum.executor&quot;: &quot;Run&quot;,
@@ -182,6 +207,7 @@
     &quot;Application.Tripletsum.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoPointerTripletsum.executor&quot;: &quot;Run&quot;,
     &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserMain.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValidPalindrome.executor&quot;: &quot;Run&quot;,
     &quot;Application.WriteTable.executor&quot;: &quot;Run&quot;,
     &quot;Application.countSubstringsWithUniqueCharacters.executor&quot;: &quot;Run&quot;,
@@ -212,9 +238,22 @@
       <recent name="multithreading" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckAnagram">
-    <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.pratice.CheckAnagram" />
+  <component name="RunManager" selected="Application.RemoveDuplicateAnd0">
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.LongestSubstring" />
+      <module name="2024-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.pratice.Main" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
@@ -226,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MajorityElement" />
+    <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.java.pratice.MainThread" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="core.java.pratice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintSeriesOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.pratice.PrintSeriesOfNumber" />
+    <configuration name="RemoveDuplicateAnd0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arrays.RemoveDuplicateAnd0" />
       <module name="2024-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="core.java.pratice.*" />
+          <option name="PATTERN" value="org.example.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,26 +304,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="core.java.pratice.Test1" />
-      <module name="2024-code" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="core.java.pratice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckAnagram" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.PrintSeriesOfNumber" />
+        <item itemvalue="Application.RemoveDuplicateAnd0" />
+        <item itemvalue="Application.MainThread" />
         <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.LongestSubstring" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -376,7 +402,29 @@
       <workItem from="1740813139670" duration="4792000" />
       <workItem from="1741050934660" duration="18587000" />
       <workItem from="1741171816782" duration="1906000" />
-      <workItem from="1741266314985" duration="345000" />
+      <workItem from="1741266314985" duration="11672000" />
+      <workItem from="1741748548737" duration="1502000" />
+      <workItem from="1741883389347" duration="2204000" />
+      <workItem from="1742006070652" duration="6263000" />
+      <workItem from="1742303891033" duration="3266000" />
+      <workItem from="1742362126937" duration="1502000" />
+      <workItem from="1742382722002" duration="7342000" />
+      <workItem from="1742539958387" duration="1784000" />
+      <workItem from="1742696142236" duration="1614000" />
+      <workItem from="1743006499252" duration="3970000" />
+      <workItem from="1743069778311" duration="4437000" />
+      <workItem from="1743151754769" duration="596000" />
+      <workItem from="1743254694957" duration="2155000" />
+      <workItem from="1743658718551" duration="1334000" />
+      <workItem from="1743733945316" duration="2284000" />
+      <workItem from="1743751442169" duration="1134000" />
+      <workItem from="1743779590083" duration="5468000" />
+      <workItem from="1743921535226" duration="4299000" />
+      <workItem from="1744189443176" duration="1434000" />
+      <workItem from="1744260917588" duration="913000" />
+      <workItem from="1744272358802" duration="1658000" />
+      <workItem from="1744335729443" duration="1139000" />
+      <workItem from="1744445082191" duration="688000" />
     </task>
     <servers />
   </component>
@@ -547,19 +595,44 @@
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/java8/OptionaClass.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="41" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/org/example/arrays/MergeTwoSortedArray.java</url>
           <line>15</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/RemoveElement.java</url>
-          <line>16</line>
+          <line>15</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leetcode/FindKthLargestElement.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multithreading/PrintOddEvenUsing2Threads.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/multithreading/PrintOddEvenUsing2Threads.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/core/java/pratice/ReverseVowel.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/design/pattern/observer/Builder/User.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/design/pattern/observer/Builder/User.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

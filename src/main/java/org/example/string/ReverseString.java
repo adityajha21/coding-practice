@@ -9,7 +9,9 @@ public class ReverseString {
         //optimized for large array
         String str = "aditya";
         System.out.println("Input String : " +str);
-        char[] charArray = str.toCharArray();
+        String result = getResultViaRecursion(str);
+        System.out.println(result);
+      /*  char[] charArray = str.toCharArray();
         int startCharacter = 0 ;
         int endCharacter = charArray.length-1;
 
@@ -24,7 +26,13 @@ public class ReverseString {
         System.out.println(Arrays.toString(charArray));
 
         String reversedString = new String(charArray);
-        System.out.println("Reversed String : " +reversedString);
+        System.out.println("Reversed String : " +reversedString);*/
 
+    }
+    // Solve this using loop : Recursion
+    private static String getResultViaRecursion(String str) {
+        if(str == null || str.length() == 0) return str;
+        System.out.println(str.substring(1));
+        return getResultViaRecursion(str.substring(1)) + str.charAt(0);
     }
 }

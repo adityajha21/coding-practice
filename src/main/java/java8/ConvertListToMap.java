@@ -9,11 +9,12 @@ public class ConvertListToMap {
         int count = 0;
 
         // below code does handle duplicates and a very basic way of converting list to map
-      /*  Map<Integer, Integer> employeeMap = list.stream().collect(Collectors.toMap(key -> key , value -> value));
+     /*   Map<Integer, Integer> employeeMap = list.stream().collect(Collectors.toMap(key -> key , value -> value));
         System.out.println(employeeMap);*/
 
         //count and number of keys
-        HashMap<Integer, Long> resultMap = (HashMap<Integer, Long>) list.stream().collect((Collectors.groupingBy(key -> key , Collectors.counting())));
+        HashMap<Integer, Long> resultMap = (HashMap<Integer, Long>) list.stream()
+                .collect((Collectors.groupingBy(key -> key , Collectors.counting())));
         System.out.println(resultMap);
     }
 }

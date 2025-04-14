@@ -36,6 +36,12 @@ public class EmployeeSorting {
         employees.stream().filter(e -> e.getSalary() > 200)
                 .map(e -> e.getName().toUpperCase()).toList().forEach(System.out::println);
 
+        // Group Employee and sum
+        System.out.println("----Group by-----");
+        HashMap<String, Long> map = (HashMap<String, Long>) employees.stream()
+                .collect(Collectors.groupingBy(Employee::getName, Collectors.summingLong(Employee::getId)));
+        System.out.println(map);
+
         // Sort by name in ascending order
         System.out.println("Sort by name in ascending order");
         List<Employee> sortedEmployees = employees.stream()
@@ -60,10 +66,7 @@ public class EmployeeSorting {
        // Group By employee by department  and count number of employees in each department
         System.out.println("Group Employees by Name and count");
         Map<String, Long> employeeCountByDepartment = employees.stream()
-                .collect(Collectors.groupingBy(
-                        Employee::getName,
-                        Collectors.counting()
-                ));
+                .collect(Collectors.groupingBy(Employee::getName, Collectors.counting()));
         System.out.println(employeeCountByDepartment);
 
         //Find the Employee with the Longest Name

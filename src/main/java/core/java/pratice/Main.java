@@ -8,10 +8,7 @@ class Main {
         List<String> list = Arrays.asList("Pen","Pencil","Pen","Notebook");
 
         //Remove duplicate elements
-        HashSet<String> result = new HashSet<>();
-         for(int i =0 ; i< list.size(); i++) {
-             result.add(list.get(i));
-         }
+       List<String> result = list.stream().distinct().collect(Collectors.toList());
         System.out.println(result);
 
         //String starting only from P

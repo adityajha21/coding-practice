@@ -21,9 +21,9 @@ public class MajorityElement {
                 majority = nums[i];
                 votes++;
             }
-            else if(majority == nums[i]) {
+            else if(majority == nums[i])
                 votes++;
-            }  else votes--;
+             else votes--;
         }
         System.out.println(majority);
 

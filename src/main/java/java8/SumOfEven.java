@@ -7,6 +7,10 @@ public class SumOfEven {
     public static void main(String[] args) {
         int[] arr = {2,4,2,1,3,4,5,6};
         int sum = 0 ;
+        sum = Arrays.stream(arr).filter(x -> x % 2 == 0).sum();
+        System.out.println(sum);
+
+
        // sum = Arrays.stream(arr).filter(s->s%2==0).sum();
         sum = Arrays.stream(arr).filter(s -> s%2 ==0).reduce(0, Integer::sum);
         System.out.println(sum);

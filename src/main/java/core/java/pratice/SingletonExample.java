@@ -10,17 +10,16 @@ public class SingletonExample {
 
 class SingletonTest {
     private static SingletonTest INSTANCE ;
-    public SingletonTest(){
+    private SingletonTest(){
         System.out.println("Private Constructor");
     };
 
     public static SingletonTest getInstance(){
         if (INSTANCE == null){
-            return new SingletonTest();
-        } else {
-            return INSTANCE;
+            INSTANCE = new SingletonTest();
         }
-    }
+        return INSTANCE;
+        }
     public void showMessage() {
         System.out.println("Hello ! I am creating a new instance of SingletonTest");
     }

@@ -7,7 +7,16 @@ public class RotateArray {
         int[] arr = { 1, 2, 3, 4};
         System.out.println("Input Arrays - " + Arrays.toString(arr));
         int k =2;
-        // Iterate till kth index
+        int l = arr.length-1;
+        for(int i =0 ; i<k; i++) {
+            int temp = arr[i];
+            arr[i] = arr[l];
+            arr[l--] = temp;
+        }
+        System.out.println(Arrays.toString(arr));
+        }
+
+       /* // Iterate till kth index
         for(int i=0; i<k; i++) {
             // store first element
             int firstElement = arr[0];
@@ -19,7 +28,7 @@ public class RotateArray {
             }
             arr[arr.length-1] = firstElement;
             System.out.println(Arrays.toString(arr));
-        }
-        System.out.println(Arrays.toString(arr));
-    }
+        }*/
+      //  System.out.println(Arrays.toString(arr));
+   // }
 }

@@ -11,6 +11,7 @@ public class BuySellStock {
         for(Integer price : prices) {
             minPrice = Math.min(minPrice, price );
             maxProfit = Math.max(maxProfit, price-minPrice);
+            System.out.println(maxProfit);
         }
         System.out.println(maxProfit);
       /*  int buyPrice = price[0];
